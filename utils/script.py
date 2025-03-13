@@ -1,23 +1,27 @@
 class script(object):
     START = """**Hello {} 🤟**
    
-I am **Find Post Bot**.I am best Channel Link Search Bot! 
+I am **POST FIND BOT ACX NETWORK**.I am best Channel Link Search Bot! 
 I Will filter your channel posts automatically and send it in your group chat when Someone search it."""
 
-    HELP = """To Use me In A Group
+    HELP = """Tᴏ Usᴇ ᴍᴇ Iɴ A Gʀᴏᴜᴘ
 
-- Add me in your group & channel with all permissions. 
-- Send /verify in group & wait for It To Accept Or Directly Contact To Owner After Request @ACX_OWNER_DM_ROBOT.
-- After verification send /connect YourChannelID
-- Example : /connect -100xxxxxxxxxx
-- Done ✅. <b><I>Enjoy 💜❤</I></b> )
+- Aᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ & ᴄʜᴀɴɴᴇʟ ᴡɪᴛʜ ᴀʟʟ ᴘᴇʀᴍɪssɪᴏɴs. 
 
-Remove a Channel with - /disconnect-100xxxxxxxxxxx
-this will help you to remove a indexed channel from your group.
+- Sᴇɴᴅ /ᴠᴇʀɪғʏ ɪɴ ɢʀᴏᴜᴘ & ᴡᴀɪᴛ ғᴏʀ Iᴛ Tᴏ Aᴄᴄᴇᴘᴛ Oʀ Dɪʀᴇᴄᴛʟʏ Cᴏɴᴛᴀᴄᴛ Tᴏ Oᴡɴᴇʀ Aғᴛᴇʀ Rᴇǫᴜᴇsᴛ @ACX_OWNER_DM_ROBOT.
 
-Get connected channels list with - /connections"""
+- Aғᴛᴇʀ ᴠᴇʀɪғɪᴄᴀᴛɪᴏɴ sᴇɴᴅ /ᴄᴏɴɴᴇᴄᴛ YᴏᴜʀCʜᴀɴɴᴇʟID
 
-    ABOUT = """Developed By @CyniteBackup
+- Exᴀᴍᴘʟᴇ : /ᴄᴏɴɴᴇᴄᴛ -𝟷𝟶𝟶xxxxxxxxxx
+- Dᴏɴᴇ ✅. <ʙ>EɴJᴏʏ 💜❤ )
+
+Rᴇᴍᴏᴠᴇ ᴀ Cʜᴀɴɴᴇʟ ᴡɪᴛʜ - /ᴅɪsᴄᴏɴɴᴇᴄᴛ-𝟷𝟶𝟶xxxxxxxxxxx
+
+ᴛʜɪs ᴡɪʟʟ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ʀᴇᴍᴏᴠᴇ ᴀ ɪɴᴅᴇxᴇᴅ ᴄʜᴀɴɴᴇʟ ғʀᴏᴍ ʏᴏᴜʀ ɢʀᴏᴜᴘ.
+
+Gᴇᴛ ᴄᴏɴɴᴇᴄᴛᴇᴅ ᴄʜᴀɴɴᴇʟs ʟɪsᴛ ᴡɪᴛʜ - /ᴄᴏɴɴᴇᴄᴛɪᴏɴs"""
+
+    ABOUT = """Developed By @THEHYPER_ACX 
 
 ✯ Mʏ Nᴀᴍᴇ:  {}
 ✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/CyniteOfficial'>Harman</a>
